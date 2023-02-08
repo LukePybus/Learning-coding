@@ -7,3 +7,4 @@
 - Spoke about text editors and IDE's
 - Showed running python code-server
 - The last thing we did was a test and ran 'Hello world' in a python script
+.
