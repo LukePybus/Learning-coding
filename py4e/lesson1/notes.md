@@ -1,0 +1,9 @@
+- I made a github account
+- I created the repositry called 'Learning-coding'
+- I then configured code-server
+- I edited the readme and committed to the repositry
+- I then created an account on py4e and started the lessons
+- I then looked and spoke to my dad about ways of running code
+- Spoke about text editors and IDE's
+- Showed running python code-server
+- The last thing we did was a test and ran 'Hello world' in a python script
